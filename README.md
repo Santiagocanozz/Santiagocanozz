@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="[https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://www.becasinternacionales.net/webapp/img/courses/86b07a_introduccion-a-la-vision-por-computador-desarrollo-de-aplicaciones-con-opencv_w688.jpg)" height="200"/>
-</p>
+
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Hola Soy Santiago Cano Zapata.</h1>
 <h3 align="center">Ingeniero Mecatrónico | Inteligencia artificial | Vision por computador</h3>
